@@ -22,3 +22,5 @@ class TwoBedRoom(Room):
     def __init__(self,roomNum ):        
         super().__init__(15000, roomNum)
 
+def asd():
+    return 0
